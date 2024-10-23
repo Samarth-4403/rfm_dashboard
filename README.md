@@ -1,4 +1,4 @@
-Building an RFM Analytics Dashboard using Python
+<h1>Building an RFM Analytics Dashboard using Python</h1>
 
 An analytics dashboard is a data visualization tool that aggregates, 
 displays, and analyzes key performance indicators (KPIs), metrics, and 
